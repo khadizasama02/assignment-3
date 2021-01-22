@@ -10,8 +10,7 @@ function kilometerToMeter(distance)
         return totalMeter;
     }
 }
-//  var result = kilometerToMeter(5);
-//  console.log( result);
+
 
 // a program to find budget
 function budgetCalculator(watch,phone,laptop)
@@ -74,8 +73,7 @@ function budgetCalculator(watch,phone,laptop)
    }
    return total;
 }
-// var result = budgetCalculator(2,0,0);
-// console.log(result);
+
 
 
 // a program to find totalcost
@@ -113,8 +111,6 @@ function hotelCost(days)
     
     
 }
-// var result = hotelCost(35);
-// console.log(result);
 
 // a program to find largest string
 function megaFriend(name)
@@ -137,10 +133,8 @@ function megaFriend(name)
     }
     return largest;
     
-
 }
-// var result =megaFriend(['dfhgn','mfjfnhvf','hdbhncmnjc m','','12']);
-// console.log(result);
+
 
 
 
